@@ -7,6 +7,6 @@ build:
 
 deploy: build
 	git add ./dist -f
-	git commit -m "update dist"
+	git commit -m "update dist" || true
 	git push origin $(shell git rev-parse --abbrev-ref HEAD)
 	git subtree push --prefix dist origin gh-pages
