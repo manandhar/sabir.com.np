@@ -58,7 +58,7 @@
         {
             "id": "experience_item_5",
             "place": "@link{places.extu}",
-            "period": ["2013/04", "now"],
+            "period": ["2023/04", "now"],
             "locales": {
                 "en": {
                     "title": "Fullstack Developer",
