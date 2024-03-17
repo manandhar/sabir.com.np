@@ -1,0 +1,70 @@
+{
+    "locales": {
+        "en": {
+            "title": "<span class='text-primary'>Professional</span> Experience",
+            "description": "A look into my work experience and career journey."
+        }
+    },
+
+    "items": [
+        {
+            "id": "experience_item_1",
+            "place": "@link{places.dzango}",
+            "period": ["2014/02", "2016/06"],
+            "locales": {
+                "en": {
+                    "title": "Junior Developer",
+                    "description": "During my time at the company, I have gained expertise in a variety of programming languages, frameworks, and tools by working on the company's software products. This experience has allowed me to become proficient in the techniques and technologies of the trade."
+                }
+            }
+        },
+
+        {
+            "id": "experience_item_2",
+            "place": "@link{places.kec}",
+            "period": ["2016/07", "2019/06"],
+            "locales": {
+                "en": {
+                    "title": "Assistant Lecturer",
+                    "description": "I have served as a visiting faculty member in the Department of Electronic & Computer Engineering, delivering lectures on the topic of \"Algorithm Analysis & Design\" as part of the curriculum."
+                }
+            }
+        },
+
+        {
+            "id": "experience_item_3",
+            "place": "@link{places.dzango}",
+            "period": ["2016/07", "2019/06"],
+            "locales": {
+                "en": {
+                    "title": "Software Engineer",
+                    "description": "<p>While working at the company, I completed software projects for both the company and clients, gaining proficiency in a range of programming languages, frameworks, specifications, and tools.</p><ul><li>Expert in PHP, including Laravel and PHPUnit. Experienced in writing tests for existing features and using TDD for development.</li><li>Proficient in JavaScript, including node.js, Vue.js, and TypeScript. Also have experience with React, React Native, fastify, and express servers, and have used low-code solutions such as Strapi for API development.</li><li>Proficient in using Terraform and Terragrunt to manage infrastructure as code on DigitalOcean and AWS.</li><li>Experienced in creating Ansible roles and plays for automation purposes.</li><li>Expert in Docker and Docker Swarm, with experience in creating compose files for various services (e.g. database, mail, Minio) and deploying apps as Docker containers to different environments.</li><li>Implemented and maintained GitLab CI jobs for building app docker images and deploying to various environments.</li><li>Gained expertise in REST, GraphQL, monorepos, SEO techniques, and multitenant architecture.</li><li>Utilized a variety of Amazon Web Services (AWS) services, including S3, EC2, ECR, Lambda, SES, SQS, SNS, and Secret Manager.</li><li>Integrated third-party services, including messaging, authentication, and online payments, into apps.</li></ul>"
+                }
+            }
+        },
+
+        {
+            "id": "experience_item_4",
+            "place": "@link{places.dzango}",
+            "period": ["2019/07", "2022/12"],
+            "locales": {
+                "en": {
+                    "title": "Software Engineering Manager/ Software Architect",
+                    "description": "<p>Managed development of software products for company and clients as software engineer and engineering manager. Currently focused on managerial aspects of software development.</p><ul><li>Trained new hires on company methodologies, coding standards, and technologies.</li><li>Supervised and provided guidance to multiple teams serving various clients.</li><li>Managed software deployments and provided ongoing support to clients.</li><li>Participated in weekly/biweekly meetings with the clients and collaborated with clients and stakeholders to gather requirements and create functional and technical specifications for software solutions.</li><li>Participated in weekly/biweekly meetings with clients to review progress, set priorities, clarify requirements, and assign tasks for upcoming sprints.</li><li>Conducted research and development on potential solutions to create proof of concepts, and presented pros and cons of each solution to the team. Prepared architectural design records (ADRs).</li><li>Conducted research and development on skeleton apps and in-house packages for reuse in new and existing projects.</li><li>Managed the hiring process, including reviewing and processing candidates, conducting interviews, and making hiring decisions.</li><li>Prepared evaluations of team members and developed improvement plans for each team member.</li></ul>"
+                }
+            }
+        },
+
+        {
+            "id": "experience_item_5",
+            "place": "@link{places.extu}",
+            "period": ["2013/04", "now"],
+            "locales": {
+                "en": {
+                    "title": "Fullstack Developer",
+                    "description": ""
+                }
+            }
+        }
+    ]
+}

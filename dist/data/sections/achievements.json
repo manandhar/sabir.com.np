@@ -1,0 +1,74 @@
+{
+    "locales": {
+        "en": {
+            "title": "Career <span class='text-primary'>Achievements</span>",
+            "description": ""
+        }
+    },
+
+    "subcategories": [
+        {
+            "id": "awards",
+            "faIcon": "fa-solid fa-trophy",
+            "locales": {
+                "en": {"title": "Awards", "buttonLabel": "More Info"}
+            }
+        }
+    ],
+
+    "items": {
+        "awards": [
+            {
+                "id": "electrical_award",
+                "place": "@link{places.nec}",
+                "date": "2014/01",
+                "href": null,
+                "locales": {
+                    "en": {
+                        "title": "Letter of Appreciation (Electrical Award)",
+                        "description": "Awarded for securing highest marks in Electrical subjects among all students of 09-batch from Nepal Engineering College."
+                    }
+                }
+            },
+
+            {
+                "id": "mechanical_award",
+                "place": "@link{places.nec}",
+                "date": "2014/01",
+                "href": null,
+                "locales": {
+                    "en": {
+                        "title": "Letter of Appreciation (Mechanical Award)",
+                        "description": "Awarded for securing highest marks in Mechanical subjects among all students of 09-batch from Nepal Engineering College."
+                    }
+                }
+            },
+
+            {
+                "id": "nta_award",
+                "place": "@link{places.nec}",
+                "date": "2014/03",
+                "href": null,
+                "locales": {
+                    "en": {
+                        "title": "Nepal Telecommunication Authority project award",
+                        "description": "Awarded for best project among undergraduate final year project of Computer Engineering of Department of Computer Engineering of Nepal Engineering College, Pokhara University in 2014."
+                    }
+                }
+            },
+
+            {
+                "id": "dean_list",
+                "place": "@link{places.pu}",
+                "date": "2014/04",
+                "href": null,
+                "locales": {
+                    "en": {
+                        "title": "Bachelor's Degree with inclusion in the DEAN'S LIST",
+                        "description": "Awarded in recognition of an outstanding meritorious achievement."
+                    }
+                }
+            }
+        ]
+    }
+}
