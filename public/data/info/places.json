@@ -1,0 +1,41 @@
+{
+    "dzango": {
+        "logoUrl": "images/places/dzangotech_logo.jpeg",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {"name": "Dzango Technology"}
+        }
+    },
+
+    "extu": {
+        "logoUrl": "images/places/extu_logo.jpeg",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {"name": "Extu"}
+        }
+    },
+
+    "kec": {
+        "logoUrl": "images/places/kec.jpeg",
+        "faIcon": "fas fa-university",
+        "locales": {
+            "en": {"name": "Kantipur Engineering College"}
+        }
+    },
+
+    "nec": {
+        "logoUrl": "images/places/nec.jpeg",
+        "faIcon": "fas fa-university",
+        "locales": {
+            "en": {"name": "Nepal Engineering College"}
+        }
+    },
+
+    "pu": {
+        "logoUrl": "images/places/pu.jpeg",
+        "faIcon": "fas fa-university",
+        "locales": {
+            "en": {"name": "Pokhara Vishwavidalaya"}
+        }
+    }
+}

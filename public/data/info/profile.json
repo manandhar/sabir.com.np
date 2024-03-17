@@ -1,0 +1,70 @@
+{
+    "name": "Sabir Manandhar",
+    "profilePictureUrl": "images/pictures/profile.jpeg",
+
+    "locales": {
+        "en": {
+            "credits": "Designed by <strong><a target='_blank' class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "role": "Software Engineering Manager",
+            "role2": "Software Architect"
+        }
+    },
+
+    "contact": {
+        "address": {
+            "id": "address",
+            "value": "108 Stapleton Street, Pendle Hill, NSW 2145",
+            "valueShort": "Pendle Hill, NSW 2145",
+            "faIcon": "fa-solid fa-city",
+            "href": null
+        },
+
+        "email": {
+            "id": "email",
+            "value": "manandharsabir@gmail.com",
+            "valueShort": "manandharsabir@gmail.com",
+            "faIcon": "fa-solid fa-envelope",
+            "href": "mailto:manandharsabir@gmail.com"
+        },
+
+        "facebook": {
+            "id": "facebook",
+            "value": "Sabir Manandhar",
+            "valueShort": "J. Einstein",
+            "faIcon": "fa-brands fa-facebook",
+            "href": "https://facebook.com"
+        },
+
+        "github": {
+            "id": "github",
+            "value": "manadhar",
+            "valueShort": "manandhar",
+            "faIcon": "fa-brands fa-github",
+            "href": "https://github.com/manandhar"
+        },
+
+        "instagram": {
+            "id": "instagram",
+            "value": "@jonas.einstein.official",
+            "valueShort": "@jonas.einstein.official",
+            "faIcon": "fa-brands fa-instagram",
+            "href": "https://instagram.com"
+        },
+
+        "linkedin": {
+            "id": "linkedin",
+            "value": "manandharsabir",
+            "valueShort": "manandharsabir",
+            "faIcon": "fa-brands fa-linkedin",
+            "href": "https://www.linkedin.com/in/manandharsabir"
+        },
+
+        "phone": {
+            "id": "phone",
+            "value": "+61 420 292 130",
+            "valueShort": "0420292130",
+            "faIcon": "fa-solid fa-phone",
+            "href": "tel:+61420292130"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "locales": {
+        "en": {
+            "welcome": "Welcome to my <span class='text-primary'>Resume!</span>",
+            "welcomeShort": "Welcome!",
+            "bio": "As a seasoned software engineer with nearly a decade of experience, I'm passionate about pushing the boundaries of technology. My expertise lies in object-oriented programming, languages like C, C++, PHP, Javascript, and SQL. Having successfully led teams and implemented agile methodologies, I'm currently immersed in exciting projects that allow me to continuously learn and innovate. Let's connect and explore the dynamic world of tech together."
+        }
+    },
+
+    "items": {
+        "socialCircles": [
+            "@link{profile.contact.linkedin}",
+            "@link{profile.contact.github}"
+        ],
+
+        "contactListItems": [
+            "@link{profile.contact.address}",
+            "@link{profile.contact.email}",
+            "@link{profile.contact.phone}"
+        ]
+    }
+}
