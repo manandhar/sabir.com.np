@@ -23,6 +23,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ## Commands
 
 ```bash
+make install  # npm install - Install dependencies
 make run      # npm run dev — starts Vite dev server
 make build    # build + copy index.html → 404.html in dist/
 make deploy   # build, force-add dist/, commit, push vue branch, then subtree push dist/ → gh-pages
