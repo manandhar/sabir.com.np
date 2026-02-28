@@ -58,11 +58,11 @@
         {
             "id": "experience_item_5",
             "place": "@link{places.extu}",
-            "period": ["2023/04", "now"],
+            "period": ["2023/04", "2025/03"],
             "locales": {
                 "en": {
                     "title": "Fullstack Developer",
-                    "description": ""
+                    "description": "<p>Full-stack developer with a strong focus on building scalable, high-performance systems and maintaining production-grade applications across backend, frontend, infrastructure, and data layers.</p><ul><li>Developed, maintained, and optimized scalable RESTful APIs using Laravel 10, ensuring high performance, strong security practices, seamless third-party integrations, and robust test coverage with PHPUnit (unit and integration tests).</li><li>Built and enhanced frontend applications using Vue.js 2 and 3, including an SSR-based Vue 2 application with pre-rendered pages for improved load times, and a Vue 3 application leveraging both the Options API and Composition API.</li><li>Maintained and extended a legacy AngularJS application by implementing new features, resolving defects, and improving overall stability and performance.</li><li>Collaborated with data engineers to develop and troubleshoot ELT pipelines, working with Python-based components to ensure data accuracy, reliability, and processing efficiency.</li><li>Managed staging and production infrastructure on AWS using Terraform, focusing on infrastructure as code, repeatability, and operational stability.</li><li>Designed, maintained, and optimized CI/CD pipelines to streamline deployments and improve release reliability.</li><li>Developed and maintained Salesforce Apex code to implement custom business logic, system integrations, and automation workflows.</li><li>Conducted technical discovery spikes, documented findings, and provided actionable insights to support informed architectural and product decisions.</li></ul>"
                 }
             }
         }
