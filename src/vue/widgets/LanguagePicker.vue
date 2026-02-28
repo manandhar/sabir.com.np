@@ -37,7 +37,7 @@
 </template>
 
 <script setup>
-import Dropdown from '/node_modules/bootstrap/js/src/dropdown'
+import Dropdown from 'bootstrap/js/src/dropdown'
 import {useLanguage} from "../../composables/language.js"
 import {computed} from "vue"
 import {useLayout} from "../../composables/layout.js"

@@ -71,7 +71,7 @@
 <script setup>
 import {onMounted, ref} from "vue"
 import {useData} from "../../../composables/data.js"
-import Modal from '/node_modules/bootstrap/js/src/modal'
+import Modal from 'bootstrap/js/src/modal'
 import ImageView from "../../widgets/ImageView.vue"
 import Tags from "../../widgets/Tags.vue"
 import SocialLinks from "../../widgets/SocialLinks.vue"
